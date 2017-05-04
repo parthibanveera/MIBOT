@@ -1,0 +1,22 @@
+{
+  "name": "mibot",
+  "version": "1.0.0",
+  "description": "MI Bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parthibanveera/MIBOT.git"
+  },
+  "author": "Parthiban Veera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parthibanveera/MIBOT/issues"
+  },
+  "homepage": "https://github.com/parthibanveera/MIBOT#readme",
+  "dependencies": {
+    "restify": "^4.3.0"
+  }
+}
